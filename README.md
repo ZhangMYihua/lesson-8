@@ -1,1 +1,1 @@
-integrate firebase with react.js
+Integrate firebase with React.js
