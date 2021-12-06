@@ -18,3 +18,7 @@ After forking the project, simply clone it the way you would from the new forked
 ## Install dependencies
 
 In your terminal after you clone your project down, remember to run either `yarn` or `npm install` to build all the dependencies in the project.
+
+
+## udemy course complete-react-developer-zero-to-mastery
+https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lecture/15037564#overview
