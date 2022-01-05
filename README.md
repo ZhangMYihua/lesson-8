@@ -22,3 +22,13 @@ In your terminal after you clone your project down, remember to run either `yarn
 
 ## udemy course complete-react-developer-zero-to-mastery
 https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lecture/15037564#overview
+
+## Deploying to netlify
+Netlify is now using node 16.x by default, which is incompatible with node-sass and other dependencies.
+
+You can force a node version on your Netlify environment by going to "Deploy Settings" > "Environment" > "Edit variables" and by adding NODE_VERSION = [version number] (for example 14 to run node latest 14.x).
+
+See https://docs.netlify.com/configure-builds/manage-dependencies/.
+
+## Demo
+https://react-ztm.netlify.app
